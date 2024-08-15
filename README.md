@@ -1,7 +1,7 @@
 ### Hitherto Another Github Graphql Inspection Search (HAGGIS)
 
 <p align="center">
-  <img src="https://github.com/klazomenai/haggis/blob/main/images/haggis-3.png?raw=true" alt="Haggis" width="150"/>
+  <img src="https://github.com/klazomenai/haggis/blob/main/images/haggis-4.png?raw=true" alt="Haggis" width="150"/>
 </p>
 
 ----
