@@ -1,5 +1,9 @@
 ### HAGGIS: Hitherto Another Github Graphql Inspection Search
 
+<p align="center">
+  <img src="https://github.com/klazomenai/haggis/blob/main/images/haggis-3.png?raw=true" alt="Haggis"/>
+</p>
+
 `HAGGIS` is a command-line tool built with Go, designed to search GitHub repositories using GraphQL. It simplifies the task of searching for specific files like `CODEOWNERS` across GitHub organizations and repositories, helping platform engineers streamline their searches.
 
 ### Installation

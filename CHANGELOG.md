@@ -9,4 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- CODEOWNERS search [#1](https://github.com/Klazomenai/haggis/issues/1)
+- Added the CODEOWNERS search [#1](https://github.com/Klazomenai/haggis/issues/1)
+- Added a verbose flag [#3](https://github.com/Klazomenai/haggis/issues/3)
+
+### Changed
+
+- Refactored to standard Go project layout [#4](https://github.com/Klazomenai/haggis/issues/4)
